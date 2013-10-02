@@ -1,0 +1,89 @@
+﻿body {
+}
+
+div.page_title
+{
+    display:block;
+    position: absolute; top:140px; left: 490px;
+    width:auto;
+    font-family:Times New Roman;
+    font-size:x-large;
+}
+
+div.campaign_name
+{
+    display:inline;
+    width: 300px;
+    position:absolute; left:490px; top: 160px;
+}
+
+
+div.campaign_start_time
+{
+    display:inline;
+    width: 531px;
+    position:absolute; left:490px; 
+top: 199px;
+}
+
+div.campaign_end_time
+{
+    display:inline;
+    width: 531px;
+    position:absolute; left:490px; 
+    top: 250px;
+}
+
+div.campaign_description
+{
+   font-family:Times New Roman;
+    font-size:x-large;
+    position:absolute; left:490px; top: 310px;
+}
+
+div.campaign_description_text_area_div
+{
+    position:absolute; left:490px; top: 350px;
+}
+
+div.opt_in_list_div
+{
+    position:absolute; left:490px; top:560px; 
+}
+
+div.pace_div
+{
+    position:absolute; left:490px; top:600px; 
+}
+
+div.SMS_Offer_label
+{
+    position:absolute; left:490px; top:630px; 
+}
+
+div.SMS_Offer_Textbox
+{
+    position:absolute; left:580px; top:640px; 
+}
+div.submit
+{
+    position:absolute; left:620px; top:760px; 
+}
+
+div.page
+{
+    width: 960px;
+    background-color: white;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+    height:  790px;
+}
+
+div.horizontal_bar
+{
+    position:absolute; top:170px;
+    background-color: #d3d3d3;
+    height:70px;
+    width:221px;
+    left: 232px;
+}

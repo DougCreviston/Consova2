@@ -1,0 +1,52 @@
+﻿body 
+{
+    
+}
+
+div.calender
+{
+    display:block;
+    position:absolute; top: 240px; left: 490px;
+  
+}
+
+
+td
+{
+    padding-top:10px;
+}
+
+
+div.label1div
+{
+    position: absolute; left: 500px; top:160px;
+    font-family:Times New Roman;
+    font-size:large;
+    font-weight:bold;
+    text-decoration: underline; 
+}
+
+div.RCL
+{
+    position:absolute; left: 500px; top:185px;
+    font-family:Times New Roman;
+    
+    
+}
+
+p.label2div
+{
+    
+    font-family:Times New Roman;
+    font-size:large;
+    font-weight:bold;
+    text-decoration: underline; 
+}
+
+div.stopped_campaigns
+{
+    position:absolute; left: 500px; top:270px;
+    font-family:Times New Roman;
+    
+    
+}
